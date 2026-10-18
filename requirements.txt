@@ -1,0 +1,4 @@
+numpy>=1.26
+bandit>=1.7
+openai>=1.50
+pytest>=8.0
